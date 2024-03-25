@@ -1,4 +1,4 @@
-## Hello there! 👋🏻
+## Hello there! 👋🏻🙋🏻‍♀️
 I'm Nicole, an enthusiastic Web Developer based in London 👩🏻‍💻
 ______________________________________________________________________________  
 ### About me: 
