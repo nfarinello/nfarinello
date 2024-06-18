@@ -5,7 +5,7 @@ ______________________________________________________________________________
 
 - 📚 I recently graduated from Le Wagon Web Development Bootcamp
 - 🔭 I’m currently working on my own portifolio page
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning NextJS
 - 📫 How to reach me: nicolefarinello@gmail.com
 - 😄 Pronouns: she/her
 
@@ -14,6 +14,12 @@ ______________________________________________________________________________
 - 🚗 Ride My E-Car: Web app that allows eco-friendly Londoners to rent an e-car available in their area or to list their e-car to be rented by other users.
 
 - 👼🏻 Angel App: Web app that allows women to check the safest route from point A to B, to see the latest crime and safe spaces around their currently location, report any type of harrassement and request help quickly.
+
+### Projects I worked on at SheCodes recently: 
+
+- 🌦 React Weather App: Web app to search what the weather like in different places and also gives you the forecast for the next 5 days with minimum and maximum temperature.
+
+- 📚 React Dictionary App: Web app that allows you to search for words giving you: the meaning, synonym, phonetics and images as a result of the search. 
 
 ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
