@@ -5,7 +5,7 @@ ______________________________________________________________________________
 
 - 📚 I recently graduated from Le Wagon Web Development Bootcamp
 - 🔭 I’m currently working on my own portifolio page
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning NextJS and Python
 - 📫 How to reach me: nicolefarinello@gmail.com
 - 😄 Pronouns: she/her
 
