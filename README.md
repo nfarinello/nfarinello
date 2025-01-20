@@ -1,10 +1,7 @@
 ## Hello there! 👋🏻🙋🏻‍♀️
-I'm Nicole, an enthusiastic Web Developer based in London 👩🏻‍💻
+I'm Nicole, a Junior Software Engineer based in London 👩🏻‍💻
 ______________________________________________________________________________  
 ### About me: 
-
-- 📚 I recently graduated from Le Wagon Web Development Bootcamp
-- 🔭 I’m currently working on my own portifolio page
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: nicolefarinello@gmail.com
 - 😄 Pronouns: she/her
