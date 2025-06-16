@@ -1,5 +1,5 @@
 ## Hello there! 👋🏻🙋🏻‍♀️
-I'm Nicole, a Junior Software Engineer based in London 👩🏻‍💻
+I'm Nicole, a Junior Software Developer based in London 👩🏻‍💻
 ______________________________________________________________________________  
 ### About me: 
 - 🌱 I’m currently learning Python
